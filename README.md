@@ -35,7 +35,7 @@
 
  After that, open up your local Insomnia program, and run whichever commands you like!
 
- Click [This Link](https://drive.google.com/file/d/1i_fE1B7AyXVFR5yTOCs2rS2VH818Lwc-/view) to watch a helpful demonstration video! Alternatively, you can video the video in the assets folder.
+ Click [This Link](https://drive.google.com/file/d/1i_fE1B7AyXVFR5yTOCs2rS2VH818Lwc-/view) to watch a helpful demonstration video! Alternatively, you can find the video in the assets folder.
   
  ## License
  ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
