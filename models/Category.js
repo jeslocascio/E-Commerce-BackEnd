@@ -1,11 +1,15 @@
+//Established Dependancies
+
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
 
+// Initialize Category model (table) by extending off Sequelize's Model class
 class Category extends Model {}
 
 Category.init(
   {
+    // Added Columns to Category model
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
